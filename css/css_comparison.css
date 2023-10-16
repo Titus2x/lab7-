@@ -7,21 +7,21 @@
 #navbar-container {
   float: left;
   width: 100%;
-  position: relative;
+  position: center;
 }
 
 #main-navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  position: relative;
+  position: center;
   left: 50%;
   float: left;
 }
 
 #main-navbar ul li {
   float: left;
-  position: relative;
+  position: center;
   right: 50%;
   display: block;
 }
